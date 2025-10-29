@@ -4,8 +4,12 @@ file updated
 
 add new file at new branch and save the file 
 
+HEAD
 add new tag version and save the file 
 
 add new tag version and tag to the file
+
+push to GitHub and create puul request from another branch
+master
 
 
