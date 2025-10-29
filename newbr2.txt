@@ -4,4 +4,6 @@ file updated
 
 add new file at new branch and save the file 
 
+push to GitHub and create puul request from another branch
+
 
