@@ -12,4 +12,6 @@ add new tag version and tag to the file
 push to GitHub and create puul request from another branch
 master
 
+chekc the merge pull request in repository
+
 
